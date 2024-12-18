@@ -1,9 +1,109 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36" version="25.0.3">
   <diagram name="Page-1" id="mPsA1BD81ZoAatoSLsho">
-    <mxGraphModel>
+    <mxGraphModel dx="1562" dy="858" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="FJkqpOOXr6BY-pSMwGEy-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;shape=link;sketch=1;curveFitting=1;jiggle=2;labelBackgroundColor=none;strokeColor=#ff0000;fontColor=default;" edge="1" parent="1" target="FJkqpOOXr6BY-pSMwGEy-2">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="290" y="149.5" as="sourcePoint" />
+            <mxPoint x="475" y="149.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FJkqpOOXr6BY-pSMwGEy-7" value="&lt;font color=&quot;#1a1a1a&quot; style=&quot;font-size: 13px;&quot;&gt;&lt;b&gt;RCA + ground to phono input&lt;/b&gt;&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];sketch=1;curveFitting=1;jiggle=2;labelBackgroundColor=none;fontColor=#143642;rounded=0;" vertex="1" connectable="0" parent="FJkqpOOXr6BY-pSMwGEy-6">
+          <mxGeometry x="0.1114" y="3" relative="1" as="geometry">
+            <mxPoint x="-7" y="-7" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FJkqpOOXr6BY-pSMwGEy-1" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;Pioneer PL-7&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;Direct Drive Record Player&lt;/font&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;sketch=1;curveFitting=1;jiggle=2;labelBackgroundColor=none;fillColor=#FAE5C7;strokeColor=#0F8B8D;fontColor=#143642;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="95" y="50" width="200" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="FJkqpOOXr6BY-pSMwGEy-2" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;Realistic 42-2109&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;Phono Preamp&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;labelBackgroundColor=none;fillColor=#FAE5C7;strokeColor=#0F8B8D;fontColor=#143642;" vertex="1" parent="1">
+          <mxGeometry x="500" y="110" width="150" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="FJkqpOOXr6BY-pSMwGEy-3" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;Edifier R1700BT&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;Active speakers&lt;/font&gt;&lt;/div&gt;" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;sketch=1;curveFitting=1;jiggle=2;labelBackgroundColor=none;fillColor=#FAE5C7;strokeColor=#0F8B8D;fontColor=#143642;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="645" y="280" width="100" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="FJkqpOOXr6BY-pSMwGEy-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;shape=link;exitX=0.5;exitY=1;exitDx=0;exitDy=0;sketch=1;curveFitting=1;jiggle=2;labelBackgroundColor=none;strokeColor=#FF0000;fontColor=default;fillColor=#f8cecc;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="FJkqpOOXr6BY-pSMwGEy-2" target="FJkqpOOXr6BY-pSMwGEy-26">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="575" y="240" as="sourcePoint" />
+            <mxPoint x="425" y="320" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="575" y="230" />
+              <mxPoint x="425" y="230" />
+              <mxPoint x="425" y="280" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FJkqpOOXr6BY-pSMwGEy-9" value="&lt;font color=&quot;#1a1a1a&quot; style=&quot;font-size: 14px;&quot;&gt;&lt;b style=&quot;&quot;&gt;RCA to AUX input&lt;/b&gt;&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];sketch=1;curveFitting=1;jiggle=2;labelBackgroundColor=none;fontColor=#143642;rounded=0;" vertex="1" connectable="0" parent="FJkqpOOXr6BY-pSMwGEy-8">
+          <mxGeometry x="-0.0207" y="2" relative="1" as="geometry">
+            <mxPoint x="5" y="-12" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FJkqpOOXr6BY-pSMwGEy-10" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;endArrow=oval;endFill=1;sketch=1;curveFitting=1;jiggle=2;labelBackgroundColor=none;strokeColor=#B3B3B3;fontColor=default;" edge="1" parent="1" target="FJkqpOOXr6BY-pSMwGEy-3">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="491" y="380" as="sourcePoint" />
+            <mxPoint x="606" y="380" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FJkqpOOXr6BY-pSMwGEy-11" value="&lt;font color=&quot;#1a1a1a&quot; style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;XLR to speaker in&lt;/b&gt;&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];sketch=1;curveFitting=1;jiggle=2;labelBackgroundColor=none;fontColor=#143642;rounded=0;" vertex="1" connectable="0" parent="FJkqpOOXr6BY-pSMwGEy-10">
+          <mxGeometry x="-0.1339" relative="1" as="geometry">
+            <mxPoint x="7" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FJkqpOOXr6BY-pSMwGEy-26" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;Edifier R1700BT&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;Active speakers&lt;/font&gt;&lt;/div&gt;" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;sketch=1;curveFitting=1;jiggle=2;labelBackgroundColor=none;fillColor=#FAE5C7;strokeColor=#0F8B8D;fontColor=#143642;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="380" y="280" width="100" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="FJkqpOOXr6BY-pSMwGEy-27" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;shape=link;sketch=1;curveFitting=1;jiggle=2;labelBackgroundColor=none;strokeColor=#ff0000;fontColor=default;" edge="1" parent="1" target="FJkqpOOXr6BY-pSMwGEy-30">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="295" y="709.5" as="sourcePoint" />
+            <mxPoint x="480" y="709.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FJkqpOOXr6BY-pSMwGEy-28" value="&lt;font color=&quot;#1a1a1a&quot; style=&quot;font-size: 13px;&quot;&gt;&lt;b&gt;RCA + ground to phono input&lt;/b&gt;&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];sketch=1;curveFitting=1;jiggle=2;labelBackgroundColor=none;fontColor=#143642;rounded=0;" vertex="1" connectable="0" parent="FJkqpOOXr6BY-pSMwGEy-27">
+          <mxGeometry x="0.1114" y="3" relative="1" as="geometry">
+            <mxPoint x="-7" y="-7" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FJkqpOOXr6BY-pSMwGEy-29" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;Pioneer PL-7&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;Direct Drive Record Player&lt;/font&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;sketch=1;curveFitting=1;jiggle=2;labelBackgroundColor=none;fillColor=#FAE5C7;strokeColor=#0F8B8D;fontColor=#143642;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="100" y="610" width="200" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="FJkqpOOXr6BY-pSMwGEy-30" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;Realistic 42-2109&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;Phono Preamp&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;labelBackgroundColor=none;fillColor=#FAE5C7;strokeColor=#0F8B8D;fontColor=#143642;" vertex="1" parent="1">
+          <mxGeometry x="505" y="670" width="150" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="FJkqpOOXr6BY-pSMwGEy-31" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;Edifier R1700BT&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;Active speakers&lt;/font&gt;&lt;/div&gt;" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;sketch=1;curveFitting=1;jiggle=2;labelBackgroundColor=none;fillColor=#FAE5C7;strokeColor=#0F8B8D;fontColor=#143642;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="650" y="840" width="100" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="FJkqpOOXr6BY-pSMwGEy-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;shape=link;exitX=0.5;exitY=1;exitDx=0;exitDy=0;sketch=1;curveFitting=1;jiggle=2;labelBackgroundColor=none;strokeColor=#FF0000;fontColor=default;fillColor=#f8cecc;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="FJkqpOOXr6BY-pSMwGEy-30" target="FJkqpOOXr6BY-pSMwGEy-36">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="580" y="800" as="sourcePoint" />
+            <mxPoint x="430" y="880" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="580" y="790" />
+              <mxPoint x="430" y="790" />
+              <mxPoint x="430" y="840" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FJkqpOOXr6BY-pSMwGEy-33" value="&lt;font color=&quot;#1a1a1a&quot; style=&quot;font-size: 14px;&quot;&gt;&lt;b style=&quot;&quot;&gt;RCA to AUX input&lt;/b&gt;&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];sketch=1;curveFitting=1;jiggle=2;labelBackgroundColor=none;fontColor=#143642;rounded=0;" vertex="1" connectable="0" parent="FJkqpOOXr6BY-pSMwGEy-32">
+          <mxGeometry x="-0.0207" y="2" relative="1" as="geometry">
+            <mxPoint x="5" y="-12" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FJkqpOOXr6BY-pSMwGEy-34" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;endArrow=oval;endFill=1;sketch=1;curveFitting=1;jiggle=2;labelBackgroundColor=none;strokeColor=#B3B3B3;fontColor=default;" edge="1" parent="1" target="FJkqpOOXr6BY-pSMwGEy-31">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="496" y="940" as="sourcePoint" />
+            <mxPoint x="611" y="940" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FJkqpOOXr6BY-pSMwGEy-35" value="&lt;font color=&quot;#1a1a1a&quot; style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;XLR to speaker in&lt;/b&gt;&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];sketch=1;curveFitting=1;jiggle=2;labelBackgroundColor=none;fontColor=#143642;rounded=0;" vertex="1" connectable="0" parent="FJkqpOOXr6BY-pSMwGEy-34">
+          <mxGeometry x="-0.1339" relative="1" as="geometry">
+            <mxPoint x="7" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FJkqpOOXr6BY-pSMwGEy-36" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;Edifier R1700BT&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;Active speakers&lt;/font&gt;&lt;/div&gt;" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;sketch=1;curveFitting=1;jiggle=2;labelBackgroundColor=none;fillColor=#FAE5C7;strokeColor=#0F8B8D;fontColor=#143642;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="385" y="840" width="100" height="200" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
